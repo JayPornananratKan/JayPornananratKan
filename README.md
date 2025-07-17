@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">I'm Jay <br><br>- 🔭 I’m working as Developer<br>- 📚 I'm currently learning vue.js<br>- ⚡ In my free time I play video game ,cooking ,play badminton ,play volleyball</p>
+<p align="left">I'm Jay <br><br>- 🔭 I’m working as Developer<br>- 📚 I'm currently learning vue.js<br>- ⚡ In my free time I learn new Technology ,play video game ,cooking ,play badminton ,play volleyball</p>
 
 ###
 
