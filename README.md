@@ -79,7 +79,12 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&show_icons=true&theme=dark&hide_border=false&count_private=true" height="180" alt="GitHub stats" />
+  <img width="10" />
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maurodesouza&layout=compact&theme=dark&hide_border=false" height="180" alt="Top langs" />
 </div>
 
 ###
