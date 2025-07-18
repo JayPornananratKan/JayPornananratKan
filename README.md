@@ -80,11 +80,11 @@
 
 <div align="center">
   <!-- GitHub Stats -->
- <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&show_icons=true&theme=dark&hide_border=false&count_private=true" height="180" alt="GitHub stats" />
+ <img src="https://github-readme-stats.vercel.app/api?username=JayPornananratKan&show_icons=true&theme=dark&hide_border=false&count_private=true" height="180" alt="GitHub stats" />
   <img width="10" />
   
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maurodesouza&layout=compact&theme=dark&hide_border=false" height="180" alt="Top langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayPornananratKan&layout=compact&theme=dark&hide_border=false" height="180" alt="Top langs" />
 </div>
 
 ###
